@@ -1,4 +1,4 @@
-<div>
+
           <h1 class="gap">
     0x04. Typescript
     
@@ -49,4 +49,3 @@
 <li>How to use an ambient Namespace to import an external library</li>
 <li>Basic nominal typing with Typescript</li>
 </ul>
-</div>
